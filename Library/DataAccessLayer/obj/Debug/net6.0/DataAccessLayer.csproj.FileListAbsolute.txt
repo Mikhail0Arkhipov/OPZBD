@@ -1,0 +1,17 @@
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\bin\Debug\net6.0\SportClub.dll
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\bin\Debug\net6.0\SportClub.pdb
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ax3Ri\Desktop\Library\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

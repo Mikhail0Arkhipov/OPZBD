@@ -1,0 +1,12 @@
+C:\Users\ax3Ri\Desktop\Library\SportClub\bin\Debug\net6.0\SportClub.deps.json
+C:\Users\ax3Ri\Desktop\Library\SportClub\bin\Debug\net6.0\SportClub.dll
+C:\Users\ax3Ri\Desktop\Library\SportClub\bin\Debug\net6.0\SportClub.pdb
+C:\Users\ax3Ri\Desktop\Library\SportClub\obj\Debug\net6.0\SportClub.csproj.AssemblyReference.cache
+C:\Users\ax3Ri\Desktop\Library\SportClub\obj\Debug\net6.0\SportClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ax3Ri\Desktop\Library\SportClub\obj\Debug\net6.0\SportClub.AssemblyInfoInputs.cache
+C:\Users\ax3Ri\Desktop\Library\SportClub\obj\Debug\net6.0\SportClub.AssemblyInfo.cs
+C:\Users\ax3Ri\Desktop\Library\SportClub\obj\Debug\net6.0\SportClub.csproj.CoreCompileInputs.cache
+C:\Users\ax3Ri\Desktop\Library\SportClub\obj\Debug\net6.0\SportClub.dll
+C:\Users\ax3Ri\Desktop\Library\SportClub\obj\Debug\net6.0\refint\SportClub.dll
+C:\Users\ax3Ri\Desktop\Library\SportClub\obj\Debug\net6.0\SportClub.pdb
+C:\Users\ax3Ri\Desktop\Library\SportClub\obj\Debug\net6.0\ref\SportClub.dll
