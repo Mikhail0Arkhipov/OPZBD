@@ -21,11 +21,11 @@ namespace SportClub
 
         }
 
-        public virtual Guid Id { get; }
+        public virtual Guid Id { get; protected set; }
 
-        public virtual string NumTrain { get; }
+        public virtual string NumTrain { get; protected set; }
 
-        public virtual ISet<Clients> clients { get; } = new HashSet<Clients>();
+        public virtual ISet<Clients> clients { get; protected set; } = new HashSet<Clients>();
 
         public override string ToString()
         {

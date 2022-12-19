@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ax3Ri\\Desktop\\Library\\SportClub\\SportClub.csproj": {}
+    "C:\\Users\\ax3Ri\\Desktop\\OPZBD\\OPZBD\\Library\\SportClub\\SportClub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ax3Ri\\Desktop\\Library\\SportClub\\SportClub.csproj": {
+    "C:\\Users\\ax3Ri\\Desktop\\OPZBD\\OPZBD\\Library\\SportClub\\SportClub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ax3Ri\\Desktop\\Library\\SportClub\\SportClub.csproj",
+        "projectUniqueName": "C:\\Users\\ax3Ri\\Desktop\\OPZBD\\OPZBD\\Library\\SportClub\\SportClub.csproj",
         "projectName": "SportClub",
-        "projectPath": "C:\\Users\\ax3Ri\\Desktop\\Library\\SportClub\\SportClub.csproj",
+        "projectPath": "C:\\Users\\ax3Ri\\Desktop\\OPZBD\\OPZBD\\Library\\SportClub\\SportClub.csproj",
         "packagesPath": "C:\\Users\\ax3Ri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ax3Ri\\Desktop\\Library\\SportClub\\obj\\",
+        "outputPath": "C:\\Users\\ax3Ri\\Desktop\\OPZBD\\OPZBD\\Library\\SportClub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

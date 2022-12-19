@@ -20,9 +20,9 @@ namespace DataAccessLayer
             this.Map(x => x.LastName).Not.Nullable().Length(255);
             this.Map(x => x.MiddleName).Nullable().Length(255);
             //this.References(x => x.coaches);
-            /*this.HasManyToMany(x => x.coaches)
+            this.HasManyToMany(x => x.coaches)
                 .Cascade.Delete()
-                .Not.Inverse();*/
+                .Not.Inverse();
         }
     }
 }

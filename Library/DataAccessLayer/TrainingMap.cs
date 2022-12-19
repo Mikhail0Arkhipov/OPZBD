@@ -17,9 +17,9 @@ namespace DataAccessLayer
             this.Table("Trainings");
             this.Id(x => x.Id);
             this.Map(x => x.NumTrain).Not.Nullable().Length(255);
-            /*this.HasMany(x => x.clients)
+            this.HasManyToMany(x => x.clients)
                 .Cascade.Delete()
-                .Not.Inverse();*/
+                .Not.Inverse();
         }
     }
 }

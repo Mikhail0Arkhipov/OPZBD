@@ -37,26 +37,26 @@ namespace SportClub
 
         }
 
-        public virtual Guid Id { get; }
+        public virtual Guid Id { get; protected set; }
         /// <summary>
         /// Имя.
         /// </summary>
-        public virtual string FirstName { get; }
+        public virtual string FirstName { get; protected set; }
 
         /// <summary>
         /// Фамилия.
         /// </summary>
-        public virtual string LastName { get; }
+        public virtual string LastName { get; protected set; }
 
         /// <summary>
         /// Отчество.
         /// </summary>
-        public virtual string MiddleName { get; }
+        public virtual string MiddleName { get; protected set; }
 
         /// <summary>
         /// Тренировки.
         /// </summary>
-        public virtual ISet<Clients> Clients { get; } = new HashSet<Clients>();
+        public virtual ISet<Clients> Clients { get; protected set; } = new HashSet<Clients>();
 
         public virtual bool Equals(Coach other)
         {
